@@ -9,7 +9,7 @@ terraform {
 
 provider "hashicups" {
   username = "education"
-  password = "test1234"
+  password = "test123"
 }
 
 module "psl" {
